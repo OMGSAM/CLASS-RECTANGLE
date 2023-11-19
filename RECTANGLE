@@ -1,0 +1,23 @@
+Class rectangle :
+  def __init__(self,largeur,longeur) :
+   self.largeur=largeur
+   self.longeur=longeur 
+ def info() :
+print("les cordonnes rectangles" )
+print("largeur:"+self.largeur "longeur:"+self.longeur)
+ def perimetre (self) :
+    return 2 x (self.largeur + self.longeur)
+ def aire (self) :
+    return  (self.largeur + self.longeur)
+def iscarre(self ) :
+ if self.largeur == self.longeur
+   return True 
+else 
+  return False
+print( info())
+print("le perimetre du rectangle :"+perimetre())
+print("le aire du rectangle :"+aire())
+if iscarre()==true
+print("le  rectangle est carre")
+print("le rectangle nest pas carre")
+
